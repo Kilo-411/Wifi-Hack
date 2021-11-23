@@ -1,2 +1,5 @@
 # Wifi-Hack
-WiFi Hacking tól
+WiFi Hacking tool used with python.
+
+##KiLo_Hacker
+###Only release
